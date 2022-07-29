@@ -1,0 +1,4 @@
+{
+    "cacheMaxSize": 10,
+    "cacheMode": "LRU"
+}
