@@ -1,5 +1,5 @@
 # KeyValueStore
-簡單實現 cache to key-value store. (FIFO &amp; LRU)
+簡單實現 cache to key-value store. (FIFO &amp; LRU) 並透過 deque 實現 GIL.
 
 ---
 
